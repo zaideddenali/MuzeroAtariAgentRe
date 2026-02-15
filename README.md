@@ -53,18 +53,5 @@ python scripts/train.py
 
 Adjust the `MuZeroConfig` in `utils/config.py` to change hyperparameters or target a different Atari game.
 
-## References
 
-1.  **Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (MuZero)**
-    *Julian Schrittwieser, Ioannis Antonoglou, Thomas Hubert, Karen Simonyan, Laurent Sifre, Simon Schmitt, Arthur Guez, Edward Lockhart, Demis Hassabis, Thore Graepel, Timothy Lillicrap, David Silver*
-    [arXiv:1911.08265](https://arxiv.org/abs/1911.08265)
 
-2.  **MuZero Pseudocode**
-    [arxiv.org/src/1911.08265v2/anc/pseudocode.py](https://arxiv.org/src/1911.08265v2/anc/pseudocode.py)
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
----
-*Developed by Manus AI*
